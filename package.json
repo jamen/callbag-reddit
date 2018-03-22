@@ -1,0 +1,19 @@
+{
+  "name": "callbag-reddit",
+  "version": "0.0.0",
+  "description": "Reddit observable as a callbag",
+  "main": "callbag-reddit.js",
+  "author": "Jamen Marz (http://jamenmarz.com/)",
+  "license": "MIT",
+  "repository": "jamen/callbag-reddit",
+  "files": [
+    "callbag-reddit.js"
+  ],
+  "scripts": {
+    "test": "node test"
+  },
+  "dependencies": {
+    "callbag-basics": "^3.0.0",
+    "isomorphic-fetch": "^2.2.1"
+  }
+}
